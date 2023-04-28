@@ -51,4 +51,4 @@ __What are you__ in this life?
 [Jesse Pinkman][2]<br>
 <img src="https://github.com/RyanHouston27/AboutMe/blob/main/img/jesse.png"><br>
 [Gustavo Fring][3]<br>
-<img src="" height="000px" width="000px">
+<img src="https://github.com/RyanHouston27/AboutMe/blob/main/img/gus.png" height="000px" width="000px">
