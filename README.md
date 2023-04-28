@@ -7,9 +7,9 @@
 
 My name is Ryan Houston. I'm currently a junior that attends North High School and Southern Indiana Career and Technical Center. Right now I'm 16 years old and will be turning 17 on May 27. I live with my mom, dad, brother, and my 2 cats and dogs.
 
-[1]: https://en.wikipedia.org/wiki/Abraham_Lincoln
-[2]: https://en.wikipedia.org/wiki/Elon_Musk
-[3]: https://en.wikipedia.org/wiki/George_Washington
+[1]: https://en.wikipedia.org/wiki/Walter_White_(Breaking_Bad)
+[2]: https://en.wikipedia.org/wiki/Jesse_Pinkman
+[3]: https://en.wikipedia.org/wiki/Gus_Fring
 
 Hobbies
 -
@@ -46,7 +46,9 @@ __What are you__ in this life?
 
 ## Persons of Interest
 
-[Abraham Lincoln][1]<br>
-[Elon Musk][2]<br>
-[George Washington][3]<br>
-![Breaking Bad](path of image file)
+[Walter White][1]<br>
+<img src=""><br>
+[Jesse Pinkman][2]<br>
+<img src=""><br>
+[Gustavo Fring][3]<br>
+<img src="" height="000px" width="000px">
