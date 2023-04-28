@@ -49,4 +49,3 @@ __What are you__ in this life?
 [Abraham Lincoln][1]
 [Elon Musk][2]
 [George Washington][3]
-
