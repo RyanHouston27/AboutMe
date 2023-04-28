@@ -46,6 +46,6 @@ __What are you__ in this life?
 
 ## Persons of Interest
 
-[Abraham Lincoln][1]
-[Elon Musk][2]
-[George Washington][3]
+[Abraham Lincoln][1]<br>
+[Elon Musk][2]<br>
+[George Washington][3]<br>
