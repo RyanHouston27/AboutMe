@@ -47,9 +47,22 @@ __What are you__ in this life?
 ## Persons of Interest
 
 [Walter White][1]<br>
-<img src="https://github.com/RyanHouston27/AboutMe/blob/main/img/walt.png"><br>
+<kbd>
+<img src="https://github.com/RyanHouston27/AboutMe/blob/main/img/walt.png">
+</kbd><br>
 [Jesse Pinkman][2]<br>
-<img src="https://github.com/RyanHouston27/AboutMe/blob/main/img/jesse.png"><br>
+<kbd>
+<img src="https://github.com/RyanHouston27/AboutMe/blob/main/img/jesse.png">
+</kbd><br>
 [Gustavo Fring][3]<br>
+<kbd>
 <img src="https://github.com/RyanHouston27/AboutMe/blob/main/img/gus.png" height="100px" width="200px">
 
+## Favorite Terms
+
+| Terms | Definitions | My Meaning |
+|:-|:----:|---:|
+| Vivid | Powerful, intensive color; clear, precise language | Invoking strong emotion in |
+| Oriflamme | A knight's battle standard | Your logo, icon |
+| Eccentric | Of unconventional and slightly strange character | Someone who is odd but cool |
+| Supine | lying face upward; failing to act | Other term for coward |
