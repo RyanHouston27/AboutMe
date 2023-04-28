@@ -47,7 +47,7 @@ __What are you__ in this life?
 ## Persons of Interest
 
 [Walter White][1]<br>
-<img src=""><br>
+<img src="https://github.com/RyanHouston27/AboutMe/blob/main/img/walt.png"><br>
 [Jesse Pinkman][2]<br>
 <img src=""><br>
 [Gustavo Fring][3]<br>
